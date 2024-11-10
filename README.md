@@ -1,3 +1,9 @@
+运行项目
+
+npm install -g yarn
+yarn start
+
+
 <div align="center">
 <a href="https://mdnice.com">
 <img width="500" src="https://files.mdnice.com/logo.svg"/>
